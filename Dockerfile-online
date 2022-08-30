@@ -1,4 +1,4 @@
-FROM cerny/openjdk-8-jre-alpine
+FROM cerny/openjdk-8-jre-alpine:3.4.0
 
 WORKDIR /home
 
